@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>trial</title>
+    <script>
+      //alert("我的第一个JavaScript");
+      function displayDate() {
+        var str = document.getElementById("demo").innerHTML;
+        var change = str.replace(/thing/i, "dear");
+        document.getElementById("demo").innerHTML = change;
+      }
+    </script>
+  </head>
+  <body>
+    <h1>我的第一个 JavaScript 程序</h1>
+    <p id="demo">wow thing</p>
+    <button onclick="myFunction()">点击</button>
+    <button type="button" onclick="displayDate()">显示日期</button>
+    <script src="js_first.js"></script>
+  </body>
+</html>

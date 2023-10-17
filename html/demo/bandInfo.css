@@ -1,0 +1,1480 @@
+
+
+body{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    opacity: 1;
+    background: linear-gradient(180deg, #006031 0%, rgba(60,125,255,0.00) 100%), #00295D;
+	font-family: PingFangSC-Medium;
+	
+}
+
+#platform{
+    /* 乐队异步排练在线平台 Band online-rehearsal */
+
+position: absolute;
+left: 596px;
+top: 15px;
+width: 257px;
+height: 35px;
+opacity: 1;
+	
+font-family: PingFangSC-Medium;
+font-size: 10px;
+font-weight: normal;
+line-height: normal;
+text-align: center;
+letter-spacing: 0.06em;
+	
+color: #AFAFAF;
+	
+}
+
+
+#bandTitle{
+    position: absolute;
+left: 53px;
+top: 135px;
+width: 299px;
+height: 120px;
+opacity: 1;
+
+font-family: PingFangSC-Medium;
+font-size: 64px;
+font-weight: normal;
+line-height: 60px;
+letter-spacing: 0em;
+
+font-weight: 400;
+
+color: #FFFFFF
+
+}
+
+#bandSubtitle{
+     position: absolute;
+left: 53px;
+top: 193px;
+width: 299px;
+height: 120px;
+opacity: 1;
+font-family: PingFangSC-Medium;
+/* font-size: 64px; */
+font-weight: normal;
+line-height: 60px;
+letter-spacing: 0em;
+/* font-family: PingFangSC-Medium; */
+font-weight: 400;
+font-size: 36px;
+color: #A0B34C 
+
+}
+#memberList{
+    position: absolute;
+    left: 95px;
+    top: 394px;
+    width: 74px;
+    height: 22px;
+    opacity: 1;
+        
+    font-family: PingFangSC-Semibold;
+    font-size: 10px;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: 0em;
+        
+    color: #878787;
+}
+#works{
+    /* 乐队作品 */
+
+position: absolute;
+left: 451px;
+top: 394px;
+width: 74px;
+height: 22px;
+opacity: 1;
+	
+font-family: PingFangSC-Semibold;
+font-size: 10px;
+font-weight: normal;
+line-height: normal;
+letter-spacing: 0em;
+	
+color: #EAEAEA;
+	
+}
+
+#bandInfo{
+    /* 人数众多的器乐演奏者的集体同管弦乐团一样，队也是由一群共同演奏的音乐家组成的团队。 */
+
+position: absolute;
+left: 397px;
+top: 207px;
+width: 399px;
+height: 39px;
+opacity: 1;
+	
+/* font-family: PingFangSC-Regular; */
+font-size: 13px;
+font-weight: normal;
+line-height: 22px;
+letter-spacing: 0em;
+	
+color: #FFFFFF;
+	
+}
+
+#personalInfo{
+   /* 个人信息框 */
+
+position: absolute;
+left: 43px;
+top: 30px;
+width: 222px;
+height: 39px;
+opacity: 1;
+	
+/* background: #868686; */
+	
+}
+#personalInfoDiv{
+    /* 容器 49 */
+
+position: absolute;
+left: 39.27px;
+top: 5.46px;
+width: 182.73px;
+height: 30.54px;
+opacity: 1;
+	
+}
+#personalDiv{
+/* 容器 1 */
+
+position: absolute;
+left: 15.73px;
+top: 7.54px;
+width: 13px;
+height: 13px;
+opacity: 1;
+
+}
+#role{
+    /* 吉他手 */
+
+position: absolute;
+left: 82.73px;
+top: 14.54px;
+width: 100px;
+height: 16px;
+opacity: 1;
+	
+font-family: PingFangSC-Regular;
+font-size: 10px;
+font-weight: normal;
+line-height: 0px;
+letter-spacing: 0em;
+	
+color: #D8D8D8;
+	
+}
+#name{
+    position: absolute;
+left: 34.73px;
+top: 13.54px;
+width: 35px;
+height: 16px;
+opacity: 1;
+
+font-family:PingFangSC-Regular;
+font-size: 18px;
+font-weight: normal;
+line-height: 0px;
+letter-spacing: 0em;
+
+color: #3D3D3D;
+}
+
+#personalInfoShape{
+    /* 减去顶层 3 */
+
+position: absolute;
+left: 0px;
+top: 0px;
+width: 127.73px;
+height: 28.08px;
+opacity: 1;
+	
+/* background: rgba(216, 216, 216, 0.56); */
+	
+backdrop-filter: blur(10px);
+	
+}
+
+#circle2{
+    /* 圆形 2 */
+
+position: absolute;
+left: -33.26px;
+top: -5.46px;
+width: 39.27px;
+height: 39px;
+opacity: 1;
+border-radius: 50%;	
+/* background:#D8D8D8; */
+	
+}
+
+#rec1{
+    position: absolute;
+    left: -8.13px;
+    top: 0px;
+    width: 135.86px;
+    height: 28.08px;
+    mix-blend-mode: screen;
+    opacity: 0.56;
+    /* border-radius: 50%;  */
+    border-radius: 0px 14px 14px 0px;
+    box-shadow: inset 14px 0 0 0 14px black;
+    background: #D8D8D8;
+}
+
+
+
+#group3{/* 组 3 */
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 39.27px;
+    height: 39px;
+    opacity: 1;
+        
+    /* background: #868686; */
+}
+
+#circle1 {
+    
+position: absolute;
+left: 0px;
+top: 0px;
+width: 39.27px;
+height: 39px;
+opacity: 1;
+border-radius: 50%;
+background: #868686;
+}
+
+#group32{
+    /* 组 32 */
+border-radius: 20px;
+position: absolute;
+left: 1185px;
+top: 434px;
+width: 152px;
+height: 152px;
+opacity: 1;
+	
+}
+
+#group31{
+    /* 组 31 */
+border-radius: 20px;
+position: absolute;
+left: 1001px;
+top: 434px;
+width: 152px;
+height: 152px;
+opacity: 1;
+	
+}
+
+#group30{
+    /* 组 30 */
+
+position: absolute;
+left: 817px;
+top: 434px;
+width: 152px;
+height: 152px;
+opacity: 1;
+	
+}
+
+#group29{
+/* 组 29 */
+
+position: absolute;
+left: 633px;
+top: 434px;
+width: 152px;
+height: 152px;
+opacity: 1;
+	
+}
+
+#group34{
+/* 组 34 */
+
+position: absolute;
+left: 633px;
+top: 631px;
+width: 152px;
+height: 152px;
+opacity: 1;
+	
+
+}
+#group33{
+/* 组 33 */
+
+position: absolute;
+left: 449px;
+top: 631px;
+width: 152px;
+height: 152px;
+opacity: 1;
+	
+}
+
+#group28{
+/* 组 28 */
+
+position: absolute;
+left: 449px;
+top: 434px;
+width: 152px;
+height: 152px;
+opacity: 1;
+	
+}
+
+.workName{
+    /* JAZZ POUPLAR */
+
+position: absolute;
+left: 21px;
+top: 131px;
+width: 66px;
+height: 11px;
+opacity: 1;
+	
+font-family: PingFangSC-Medium;
+font-size: 8px;
+font-weight: normal;
+line-height: normal;
+letter-spacing: 0.06em;
+	
+color: #3D3D3D;
+	
+}
+.rec16{
+    /* 矩形 16 */
+border-radius:0 0 17.5px 17.5px;
+position: absolute;
+left: 0px;
+top: 124px;
+width: 152px;
+height: 28px;
+opacity: 1;
+	
+background: rgba(255, 255, 255, 0.56);
+	
+backdrop-filter: blur(10px);
+	
+}
+
+.rec8{
+/* 矩形 8 */
+/* border-radius: 20px; */
+position: absolute;
+left: 0px;
+top: 0px;
+width: 152px;
+height: 152px;
+opacity: 1;
+	
+/* background: url(rec8.png); */
+	
+}
+
+#cir2{
+    /* 圆形 2 */
+
+position: absolute;
+left: 91px;
+top: 585px;
+width: 61px;
+height: 60px;
+opacity: 1;
+	
+/* background: url(../src/cir2.png); */
+	
+/* border: 1px solid #D1783D; */
+	
+}
+
+#cir3{
+    /* 圆形 3 */
+
+position: absolute;
+left: 91px;
+top: 503px;
+width: 60px;
+height: 60px;
+opacity: 1;
+	
+/* background: url(../src/cir3.png); */
+	
+/* border: 1px solid #FFC85A; */
+	
+	
+}
+
+#cir4{
+
+/* 圆形 4 */
+
+position: absolute;
+left: 91px;
+top: 421px;
+width: 61px;
+height: 60px;
+opacity: 1;
+	
+/* background: url(../src/cir4.png); */
+	
+/* border: 1px solid #D0FF00; */
+	
+	
+	
+}
+
+
+#cir5{
+
+   /* 圆形 5 */
+
+position: absolute;
+left: 91px;
+top: 667px;
+width: 60px;
+height: 60px;
+opacity: 1;
+	
+/* background: url(../src/cir5.png); */
+	
+/* border: 1px solid #006AEA; */
+        
+}
+
+        
+#cir6{
+
+    /* 圆形 6 */
+
+position: absolute;
+left: 92px;
+top: 749px;
+width: 60px;
+height: 60px;
+opacity: 1;
+	
+/* background: url(../src/cir6.png); */
+	
+/* border: 1px solid #F7A277; */
+	
+         
+ }
+#recMemberList{
+    /* 矩形 31 */
+
+position: absolute;
+left: 49px;
+top: 375px;
+width: 303px;
+height: 467px;
+border-radius: 20px;
+opacity: 1;
+	
+background: #FFFFFF;
+	
+box-shadow: inset 0px 4px 10px 0px rgba(0, 0, 0, 0.3);
+	
+}
+
+#recBandWorks{
+    position: absolute;
+    left: 397px;
+    top: 373px;
+    width: 990px;
+    height: 467px;
+    border-radius: 30px;
+    opacity: 1;
+
+    background: rgba(234, 234, 234, 0.56);
+
+    backdrop-filter: blur(10px);
+}
+#recSubtitle{
+    position: absolute;
+left: 53px;
+top: 227px;
+width: 307px;
+height: 19px;
+border-radius: 132px;
+opacity: 1;
+
+background: #D2FFB6;
+}
+#member{
+    /* 成员 */
+    
+        position: absolute;
+        left: 340px;
+        top: 728px;
+        width: 44px;
+        height: 18px;
+        opacity: 1;
+    
+        font-family: PingFangSC-Regular;
+        font-size: 22px;
+        font-weight: normal;
+        line-height: 18px;
+        letter-spacing: 0em;
+    
+        color: #FFFFFF;
+}
+
+.recMemberBG1{
+/* 矩形 35 */
+
+    position: absolute;
+    left: 1128px;
+    top: 162px;
+    width: 231px;
+    height: 520px;
+    border-radius: 30px;
+    mix-blend-mode: screen;
+    opacity: 1;
+
+    background: #FFB6C9;
+}
+
+
+.recMemberBG2{
+/* 矩形 34 */
+
+    position: absolute;
+    left: 862px;
+    top: 162px;
+    width: 231px;
+    height: 520px;
+    border-radius: 30px;
+    mix-blend-mode: screen;
+    opacity: 1;
+
+    background: #FFC85A;
+}
+
+.recMemberBG3 {
+/* 矩形 33 */
+
+    position: absolute;
+    left: 595px;
+    top: 162px;
+    width: 232px;
+    height: 520px;
+    border-radius: 30px;
+    mix-blend-mode: screen;
+    opacity: 1;
+
+    background: #3578E5;
+}
+
+.recMemberBG4 {
+/* 矩形 32 */
+
+    position: absolute;
+    left: 329px;
+    top: 162px;
+    width: 232px;
+    height: 520px;
+    border-radius: 30px;
+    mix-blend-mode: screen;
+    opacity: 1;
+
+    background: #D36142;
+}
+
+.recMemberBG5{
+    /* 矩形 31 */
+    
+        position: absolute;
+        left: 63px;
+        top: 162px;
+        width: 232px;
+        height: 520px;
+        border-radius: 30px;
+        mix-blend-mode: screen;
+        opacity: 1;
+    
+        background: #FFC85A;
+}
+
+.drum{
+/* 鼓-07 */
+
+    position: absolute;
+    left: 982px;
+    top: 145px;
+    width: 689px;
+    height: 487px;
+    /* transform: rotate(180deg); */
+    opacity: 1;
+
+    background: url(../src/member/drum.png);
+}
+
+.keyboard{
+/* 键盘-06 */
+
+    position: absolute;
+    left: 862px;
+    top: 159px;
+    width: 309px;
+    height: 457px;
+    opacity: 1;
+
+    background: url(../src/member/keyboard.png);
+}
+
+.bass{
+/* bass-05 */
+
+    position: absolute;
+    left: 595px;
+    top: 164px;
+    width: 348px;
+    height: 453px;
+    opacity: 1;
+
+    background: url(../src/member/bass.png);
+}
+
+.guitar{
+/* 吉他手-04 */
+
+    position: absolute;
+    left: 309px;
+    top: 162px;
+    width: 252px;
+    height: 497px;
+    transform: rotate(0deg);
+    opacity: 1;
+
+    background: url(../src/member/guitar.png);
+}
+
+.vocal{
+/* 主唱-03 */
+
+    position: absolute;
+    left: 0px;
+    top: 132px;
+    width: 297px;
+    height: 524px;
+    opacity: 1;
+
+    background: url(../src/member/vocal.png);
+}
+
+.memberInfo{
+    /* 成员信息框5 */
+    
+    position: absolute;
+    left: 1139px;
+    top: 516px;
+    width: 210px;
+    height: 154px;
+    opacity: 1;
+}
+
+.memberDiv{
+/* 容器 3 */
+
+    position: absolute;
+    left: 98px;
+    top: 125px;
+    width: 17px;
+    height: 17px;
+    opacity: 1;
+}
+
+.name{
+/* 阳阳 */
+
+    position: absolute;
+    /* left: 42px; */
+    top: 43px;
+    width: 210px;
+    height: 90px;
+    opacity: 1;
+
+    font-family: PingFangSC-Medium;
+    font-size: 64px;
+    font-weight: normal;
+    line-height: normal;
+    text-align: center;
+    letter-spacing: 0em;
+
+    color: #092D5B;
+}
+
+.roleDivC{
+    position: absolute;
+        left: 0;
+        top: 0;
+        width: 105px;
+        height: 77px;
+        opacity: 1;
+}
+
+.roleDivE{
+    position: absolute;
+        left: 105px;
+        top: 0;
+        width: 105px;
+        height: 154px;
+        opacity: 1;
+}
+.roleChinese{
+/* 鼓手 DUMB */
+
+    position: absolute;
+    left: 0px;
+    top: 16px;
+    width: 100px;
+    height: 27px;
+    opacity: 1;
+
+    font-family: PingFangSC-Regular;
+    /* font-size: 12px; */
+    font-weight: normal;
+    line-height: normal;
+    text-align: right;
+    letter-spacing: 0em;
+
+    color: #092D5B;
+
+    /* 鼓手  */
+    font-family: PingFangSC-Regular;
+    font-weight: 400;
+    font-size: 20;
+
+    
+}
+
+.roleEnglish{
+/* 鼓手 DUMB */
+
+    position: absolute;
+    left: 110px;
+    top: 20px;
+    width: 100px;
+    height: 27px;
+    opacity: 1;
+
+    font-family: PingFangSC-Regular;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: normal;
+    text-align: left;
+    letter-spacing: 0em;
+
+    color: #092D5B;
+
+   
+
+    /* DUMB */
+    font-family: PingFangSC-Regular;
+    font-weight: 400;
+    font-size: 12;
+}
+
+.recMemberInfo{
+/* 矩形 40 */
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 210px;
+    height: 154px;
+    border-radius: 30px;
+    opacity: 1;
+
+    background: rgba(255, 255, 255, 0.5);
+
+    backdrop-filter: blur(10px);
+}
+
+#memberInfo{
+    /* 成员详情 */
+    
+        position: absolute;
+        left: 63px;
+        top: 155px;
+        width: 88px;
+        height: 18px;
+        opacity: 1;
+    
+        font-family: PingFangSC-Regular;
+        font-size: 22px;
+        font-weight: normal;
+        line-height: 18px;
+        letter-spacing: 0em;
+    
+        color: #FFFFFF;
+}
+
+#others{
+/* 擅长位置：吉他手、鼓手 所在乐队：虚实乐队 */
+
+    position: absolute;
+    left: 724px;
+    top: 320px;
+    width: 121px;
+    height: 72px;
+    opacity: 1;
+
+    font-family: PingFangSC-Regular;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 18px;
+    letter-spacing: 0em;
+
+    color: #D8D8D8;
+}
+
+#basicInfo{
+/* 性别：男 地区：中国大陆 账号：leoisagutiargod0328 */
+
+    position: absolute;
+    left: 541px;
+    top: 320px;
+    width: 138px;
+    height: 72px;
+    opacity: 1;
+
+    font-family: PingFangSC-Regular;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 18px;
+    letter-spacing: 0em;
+
+    color: #D8D8D8;
+}
+
+#division{
+    /* 直线 11 */
+    
+        position: absolute;
+        left: 541px;
+        top: 556px;
+        width: 843px;
+        height: 0px;
+        opacity: 1;
+    
+        border: 1px solid #D8D8D8;
+}
+
+#signText{
+/* 自由奔放的音乐人一枚～ */
+
+    position: absolute;
+    left: 538px;
+    top: 276px;
+    width: 166px;
+    height: 11px;
+    opacity: 1;
+
+    font-family: PingFangSC-Semibold;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 10px;
+    letter-spacing: 0em;
+
+    color: #EAEAEA;
+}
+
+#signName{
+
+    /* Leo 吉他手 */
+
+    position: absolute;
+    left: 538px;
+    top: 217px;
+    width: 227px;
+    height: 46px;
+    opacity: 1;
+    
+    font-family: PingFangSC-Semibold;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 22px;
+    letter-spacing: 0em;
+    
+    color: #FFFFFF;
+
+    /* Leo */
+    font-family: PingFangSC-Semibold;
+    font-weight: 400;
+    font-size: 64px;
+
+}
+
+#signRole{
+/* Leo 吉他手 */
+
+    position: absolute;
+    left: 670px;
+    top: 240px;
+    width: 227px;
+    height: 46px;
+    opacity: 1;
+
+    line-height: 22px;
+    letter-spacing: 0em;
+
+    color: #FFFFFF;
+
+   
+
+    /* 吉他手 */
+    font-family: PingFangSC-Semibold;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+#worksInfo{
+/* 作品信息 */
+
+    position: absolute;
+    left: 541px;
+    top: 518px;
+    width: 180px;
+    height: 41px;
+    opacity: 1;
+
+    font-family: Source Han Sans CN;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: 0em;
+
+    color: #EFEFEF;
+}
+
+#recWork1{
+/* 矩形 70 */
+
+    position: absolute;
+    left: 541px;
+    top: 577px;
+    width: 143px;
+    height: 143px;
+    border-radius: 20px;
+    opacity: 1;
+
+    background: url(../src/rec8.1.png);
+}
+#recWork2 {
+/* 矩形 71 */
+
+    position: absolute;
+    left: 716px;
+    top: 577px;
+    width: 143px;
+    height: 143px;
+    border-radius: 20px;
+    opacity: 1;
+
+    background: url(../src/rec8.2.png);
+}
+
+#recWork3 {
+/* 矩形 72 */
+
+    position: absolute;
+    left: 1066px;
+    top: 577px;
+    width: 143px;
+    height: 143px;
+    border-radius: 20px;
+    opacity: 1;
+
+    background: url(../src/rec8.3.png);
+}
+
+#recWork4 {
+/* 矩形 73 */
+
+    position: absolute;
+    left: 891px;
+    top: 577px;
+    width: 143px;
+    height: 143px;
+    border-radius: 20px;
+    opacity: 1;
+
+    background: url(../src/rec8.4.png);
+}
+
+#recWork5 {
+/* 矩形 74 */
+
+    position: absolute;
+    left: 1241px;
+    top: 577px;
+    width: 143px;
+    height: 143px;
+    border-radius: 20px;
+    opacity: 1;
+
+    background: url(../src/rec8.5.png);
+}
+
+#memberBG{
+    /* 矩形 31 */
+    
+        position: absolute;
+        left: 63px;
+        top: 200px;
+        width: 387px;
+        height: 520px;
+        border-radius: 30px;
+        mix-blend-mode: overlay;
+        opacity: 1;
+    
+        background: #FFDCE6;
+}
+
+#memberRole{
+    /* 吉他手-04 */
+    
+        position: absolute;
+        left: -210px;
+        top: 97px;
+        width: 975px;
+        height: 689px;
+        opacity: 1;
+    
+        background: url(../src/member/guitar_ex.png);
+}
+
+#like{
+    /* 容器 */
+    
+        position: absolute;
+        left: 922px;
+        top: 202px;
+        width: 22px;
+        height: 22px;
+        opacity: 1;
+        background:url(../src/paths/like.png)
+}
+
+#share{
+/* 容器 */
+
+    position: absolute;
+    left: 966px;
+    top: 203px;
+    width: 20px;
+    height: 20px;
+    opacity: 1;
+    background: url(../src/paths/share.png);
+}
+
+#sign{
+    /* 容器 */
+    
+        position: absolute;
+        left: 704px;
+        top: 274px;
+        width: 16px;
+        height: 15.94px;
+        opacity: 1;
+        background: url(../src/paths/sign.png);
+}
+
+#rec97{
+/* 矩形 97 */
+
+    position: absolute;
+    left: 181.46px;
+    top: 303.26px;
+    width: 57.79px;
+    height: 174.14px;
+    transform: rotate(135deg);
+    border-radius: 200px;
+    opacity: 1;
+
+    background: #D0FF00;
+}
+
+
+#backgroundDecoration{
+/* 组 10 */
+
+    position: absolute;
+    left: 1301.06px;
+    top: 100px;
+    width: 916.06px;
+    height: 859.93px;
+    /* transform: rotate(180deg); */
+    border-radius: 200px;
+    mix-blend-mode: soft-light;
+    opacity: 1;
+
+    box-sizing: border-box;
+    /* border: 1px solid #000000; */
+}
+
+#rec95{
+    /* 矩形 95 */
+    
+        position: absolute;
+        left: 72.47px;
+        top: 280.61px;
+        width: 74.51px;
+        height: 272.4px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #A0B34C;
+}
+/* finished */
+
+#rec93{
+    /* 矩形 93 */
+    
+        position: absolute;
+        left: 0.59px;
+        top:258.59px;
+        width: 176.46px;
+        height: 743.28px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #A0B34C;
+}
+/* finished */
+#circle11{
+    /* 圆形 11 */
+    
+        position: absolute;
+        left: 85.43px;
+        top: 287.61px;
+        width: 43.41px;
+        height: 43.41px;
+        border-radius: 50%;
+        opacity: 1;
+    
+        background: #D2FFB6;
+}
+/* finished */
+#circle12{
+    /* 圆形 12 */
+    
+        position: absolute;
+        left: 29.25px;
+        top: 198.06px;
+        width: 26.19px;
+        height: 26.2px;
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D2FFB6;
+}
+/* finished */
+#circle13{
+/* 圆形 13 */
+
+    position: absolute;
+    left: -254.94px;
+    top: 314.08px;
+    width: 29.19px;
+    height: 29.19px;
+    border-radius: 200px;
+    opacity: 1;
+
+    background: #A0B34C;
+}
+/* finished */
+#circle14{
+    /* 圆形 14 */
+    
+        position: absolute;
+        left: -39.8px;
+        top: 387.74px;
+        width: 20.21px;
+        height: 20.21px;
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D0FF00;
+}
+/* finished */
+#rec89{
+    /* 矩形 89 */
+    
+        position: absolute;
+        left: -235.18px;
+        top: 126.9px;
+        width: 27.47px;
+        height: 107.43px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D2FFB6;
+} 
+/* finished */
+#rec82{
+    /* 矩形 82 */
+    
+        position: absolute;
+        left: -97.67px;
+        top: 371.17px;
+        width: 18.8px;
+        height: 179.74px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D0FF00;
+}
+/* finished */
+#rec85{
+    /* 矩形 85 */
+    
+        position: absolute;
+        left: 67.85px;
+        top: 70px;
+        width: 18.8px;
+        height: 146.26px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D0FF00;
+}
+/* finished */
+#rec87{
+    /* 矩形 87 */
+    
+        position: absolute;
+        left: -33.55px;
+        top: 158.76px;
+        width: 11px;
+        height: 87.35px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D0FF00;
+}
+/* finished */
+#rec83{
+    /* 矩形 83 */
+    
+        position: absolute;
+        left: -317.83px;
+        top: 474.4px;
+        width: 18.8px;
+        height: 158.93px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D0FF00;
+}
+/* finished */
+#rec84{
+    /* 矩形 84 */
+    
+        position: absolute;
+        left: -463.58px;
+        top: 599.89px;
+        width: 31.79px;
+        height: 213.79px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D2FFB6;
+}
+/* finished */
+#rec90{
+    /* 矩形 90 */
+    
+        position: absolute;
+        left: -128.83px;
+        top: 592.74px;
+        width: 67.45px;
+        height: 281.57px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #A0B34C;
+    
+        box-sizing: border-box;
+        /* border: 1px solid #000000; */
+}
+/* finished */
+#rec81{
+    /* 矩形 81 */
+    
+        position: absolute;
+        left: -214.37px;
+        top: 470.59px;
+        width: 31.44px;
+        height: 239.32px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D0FF00;
+}
+/* finished */
+#rec92{
+    /* 矩形 92 */
+    
+        position: absolute;
+        left: -79.57px;
+        top: 420.09px;
+        width: 95.84px;
+        height: 452.68px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #C1CC2E;
+}
+/* finished */
+#rec88{
+    /* 矩形 88 */
+    
+        position: absolute;
+        left: -174.79px;
+        top: 235.42px;
+        width: 18.8px;
+        height: 160.52px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D2FFB6;
+}
+/* finished */
+#rec94{
+    /* 矩形 94 */
+    
+        position: absolute;
+        left:-50.74px;
+        top: 507.89px;
+        width: 57.79px;
+        height: 281.57px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D0FF00;
+}
+/* finished */
+#rec96{
+    /* 矩形 96 */
+    
+        position: absolute;
+        left: 71.73px;
+        top: 131.26px;
+        width: 87.74px;
+        height: 735.41px;
+        transform: rotate(-45deg);
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D0FF00;
+}
+/* finished */
+#circle9{
+/* 圆形 9 */
+
+    position: absolute;
+    left: -120.12px;
+    top: 240.18px;
+    width: 103.28px;
+    height: 103.3px;
+    border-radius: 200px;
+    opacity: 1;
+
+    background: #D2FFB6;
+}
+/* finished */
+#circle10{
+    /* 圆形 10 */
+    
+        position: absolute;
+        left: -29.21px;
+        top: 415.6px;
+        width: 57.63px;
+        height: 57.64px;
+        border-radius: 200px;
+        opacity: 1;
+    
+        background: #D2FFB6;
+}
+/* finished */
+
+#detailedInfo{
+    /* 详细信息 */
+    
+        position: absolute;
+        left: 335px;
+        top: 135px;
+        width: 25px;
+        height: 24px;
+        opacity: 1;
+        background:url(../src/paths/detailedInfo.png);
+}
+
+#personalDiv{
+    /* 容器 1 */
+    
+        position: absolute;
+        left: 15.73px;
+        top: 7.54px;
+        width: 13px;
+        height: 13px;
+        opacity: 1;
+        background:url(../src/paths/userImage.png);
+}
+
+#exit{
+    /* 容器 */
+    
+        position: absolute;
+        left: 1382px;
+        top: 31px;
+        width: 25px;
+        height: 25px;
+        mix-blend-mode: screen;
+        opacity: 1;
+        background: url(../src/paths/exit.png);
+}
